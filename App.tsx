@@ -1,6 +1,6 @@
 
 import React, { useState, useMemo, useEffect } from 'react';
-import { Search, Trash2, Plus, Minus, CreditCard, UserPlus, FileText, ChevronLeft, MessageSquare, Settings, Printer, Store, Save, FilePlus, XCircle, ShoppingBag, Utensils, Bike, MapPin, Tags, Ruler, Key } from 'lucide-react';
+import { Search, Trash2, Plus, CreditCard, UserPlus, FileText, ChevronLeft, MessageSquare, Printer, Store, Save, FilePlus, XCircle, ShoppingBag, Utensils, Bike, MapPin, Tags, Ruler, Key } from 'lucide-react';
 import { CartesianGrid, XAxis, YAxis, Tooltip, ResponsiveContainer, BarChart, Bar, LineChart, Line } from 'recharts';
 import Sidebar from './components/Sidebar';
 import WeighingModal from './components/WeighingModal';
